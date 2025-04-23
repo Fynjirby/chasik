@@ -1,7 +1,7 @@
-# chasik
-is a simple clock in Go 
+# Laikrodis
+It is a greatly powerful clock in Go 
 <br>
 
-yeah, just time in terminal... with colors...
+yeah, just time AND DATE in terminal... with colors...
 
 <img src="img.png"> 
