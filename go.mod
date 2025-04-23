@@ -1,4 +1,4 @@
-module main.go
+module github.com/fynjirby/chasik
 
 go 1.24.2
 
