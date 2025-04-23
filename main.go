@@ -11,6 +11,7 @@ func main() {
 	ticker := time.NewTicker(1 * time.Second)
 	defer ticker.Stop()
 
+	fmt.Println()
 	for {
 		red := color.New(color.FgRed).SprintFunc()
 		blue := color.New(color.FgBlue).SprintFunc()

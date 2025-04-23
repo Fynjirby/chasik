@@ -1,4 +1,4 @@
-# Laikrodis
+# Chasik / Laikrodis 
 It is a greatly powerful clock in Go 
 <br>
 
